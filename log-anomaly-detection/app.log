@@ -1,0 +1,1000 @@
+[2023-10-05T08:00:02] INFO PaymentGateway - Transaction failed: txn_0000
+[2023-10-05T08:00:07] INFO AuthService - User user_401 logged in
+[2023-10-05T08:00:11] INFO AuthService - User user_206 logged in
+[2023-10-05T08:00:12] INFO PaymentGateway - Transaction failed: txn_00a0
+[2023-10-05T08:00:15] INFO API - POST /api/v1/products 404
+[2023-10-05T08:00:20] INFO API - POST /api/v1/products 200
+[2023-10-05T08:00:22] CRITICAL AuthService - User user_86 failed login
+[2023-10-05T08:00:23] INFO PaymentGateway - Transaction processed: txn_0082
+[2023-10-05T08:00:27] WARN UserService - Transaction processed: txn_0082
+[2023-10-05T08:00:32] ERROR AuthService - User user_397 logged in
+[2023-10-05T08:00:35] INFO PaymentGateway - Transaction failed: txn_02f0
+[2023-10-05T08:00:38] ERROR UserService - Transaction failed: txn_02f0
+[2023-10-05T08:00:43] INFO UserService - Transaction failed: txn_02f0
+[2023-10-05T08:00:48] ERROR API - POST /api/v1/users 200
+[2023-10-05T08:00:52] INFO AuthService - User user_901 logged in
+[2023-10-05T08:00:53] ERROR Database - Connection established
+[2023-10-05T08:00:58] INFO Database - Connection established
+[2023-10-05T08:01:03] INFO Database - Connection timeout
+[2023-10-05T08:01:04] INFO UserService - Connection timeout
+[2023-10-05T08:01:07] INFO API - GET /api/v1/products 404
+[2023-10-05T08:01:10] WARN API - GET /api/v1/products 200
+[2023-10-05T08:01:11] WARN AuthService - User user_159 logged in
+[2023-10-05T08:01:15] INFO PaymentGateway - Transaction failed: txn_00db
+[2023-10-05T08:01:17] INFO PaymentGateway - Transaction processed: txn_0388
+[2023-10-05T08:01:20] INFO API - POST /api/v1/users 200
+[2023-10-05T08:01:21] INFO API - POST /api/v1/products 200
+[2023-10-05T08:01:26] INFO UserService - POST /api/v1/products 200
+[2023-10-05T08:01:27] INFO PaymentGateway - Transaction processed: txn_0354
+[2023-10-05T08:01:30] WARN AuthService - User user_47 logged in
+[2023-10-05T08:01:32] INFO API - GET /api/v1/products 200
+[2023-10-05T08:01:34] WARN Database - Deadlock detected
+[2023-10-05T08:01:38] INFO Database - Connection established
+[2023-10-05T08:01:42] INFO API - POST /api/v1/products 200
+[2023-10-05T08:01:47] WARN PaymentGateway - Transaction failed: txn_0318
+[2023-10-05T08:01:48] INFO PaymentGateway - Transaction processed: txn_010d
+[2023-10-05T08:01:52] INFO Database - Connection timeout
+[2023-10-05T08:01:55] WARN AuthService - User user_533 logged in
+[2023-10-05T08:01:57] ERROR UserService - User user_533 logged in
+[2023-10-05T08:02:01] CRITICAL API - POST /api/v1/users 200
+[2023-10-05T08:02:04] WARN API - GET /api/v1/users 500
+[2023-10-05T08:02:09] INFO PaymentGateway - Transaction failed: txn_0018
+[2023-10-05T08:02:11] INFO AuthService - User user_116 logged in
+[2023-10-05T08:02:12] INFO Database - Connection timeout
+[2023-10-05T08:02:16] ERROR PaymentGateway - Transaction failed: txn_0094
+[2023-10-05T08:02:17] INFO API - GET /api/v1/users 200
+[2023-10-05T08:02:21] WARN API - POST /api/v1/products 200
+[2023-10-05T08:02:26] INFO AuthService - User user_740 logged in
+[2023-10-05T08:02:27] INFO AuthService - User user_468 logged in
+[2023-10-05T08:02:31] INFO AuthService - User user_375 failed login
+[2023-10-05T08:02:33] INFO UserService - User user_375 failed login
+[2023-10-05T08:02:34] INFO API - POST /api/v1/products 404
+[2023-10-05T08:02:36] WARN UserService - POST /api/v1/products 404
+[2023-10-05T08:02:41] WARN AuthService - User user_722 logged in
+[2023-10-05T08:02:45] INFO Database - Connection timeout
+[2023-10-05T08:02:50] INFO PaymentGateway - Transaction failed: txn_021f
+[2023-10-05T08:02:54] INFO Database - Query executed
+[2023-10-05T08:02:55] INFO AuthService - User user_671 logged in
+[2023-10-05T08:02:56] INFO AuthService - User user_169 logged in
+[2023-10-05T08:03:01] WARN AuthService - User user_778 failed login
+[2023-10-05T08:03:02] ERROR PaymentGateway - Transaction processed: txn_033a
+[2023-10-05T08:03:04] CRITICAL UserService - Transaction processed: txn_033a
+[2023-10-05T08:03:09] INFO UserService - Transaction processed: txn_033a
+[2023-10-05T08:03:11] INFO Database - Connection established
+[2023-10-05T08:03:14] INFO API - GET /api/v1/products 200
+[2023-10-05T08:03:16] INFO Database - Query executed
+[2023-10-05T08:03:17] INFO AuthService - User user_342 logged in
+[2023-10-05T08:03:22] INFO UserService - User user_342 logged in
+[2023-10-05T08:03:26] ERROR API - POST /api/v1/users 200
+[2023-10-05T08:03:28] ERROR API - POST /api/v1/products 200
+[2023-10-05T08:03:33] INFO Database - Query executed
+[2023-10-05T08:03:38] INFO Database - Query executed
+[2023-10-05T08:03:41] CRITICAL PaymentGateway - Transaction failed: txn_029e
+[2023-10-05T08:03:43] ERROR PaymentGateway - Transaction processed: txn_0301
+[2023-10-05T08:03:44] INFO AuthService - User user_211 logged in
+[2023-10-05T08:03:47] CRITICAL API - GET /api/v1/users 200
+[2023-10-05T08:03:51] WARN API - POST /api/v1/users 200
+[2023-10-05T08:03:53] WARN API - POST /api/v1/products 404
+[2023-10-05T08:03:58] INFO API - GET /api/v1/users 200
+[2023-10-05T08:04:01] INFO API - GET /api/v1/users 200
+[2023-10-05T08:04:02] ERROR AuthService - User user_386 failed login
+[2023-10-05T08:04:05] WARN API - GET /api/v1/products 200
+[2023-10-05T08:04:07] INFO AuthService - User user_954 logged in
+[2023-10-05T08:04:11] INFO AuthService - User user_935 logged in
+[2023-10-05T08:04:14] WARN UserService - User user_935 logged in
+[2023-10-05T08:04:17] CRITICAL UserService - User user_935 logged in
+[2023-10-05T08:04:21] INFO API - GET /api/v1/users 200
+[2023-10-05T08:04:22] WARN Database - Deadlock detected
+[2023-10-05T08:04:25] WARN Database - Connection timeout
+[2023-10-05T08:04:26] WARN AuthService - User user_765 failed login
+[2023-10-05T08:04:29] INFO AuthService - User user_73 logged in
+[2023-10-05T08:04:32] WARN Database - Connection established
+[2023-10-05T08:04:36] INFO UserService - Connection established
+[2023-10-05T08:04:39] INFO Database - Query executed
+[2023-10-05T08:04:42] INFO PaymentGateway - Transaction failed: txn_00c1
+[2023-10-05T08:04:47] WARN PaymentGateway - Transaction failed: txn_0007
+[2023-10-05T08:04:52] INFO UserService - Transaction failed: txn_0007
+[2023-10-05T08:04:55] INFO UserService - Transaction failed: txn_0007
+[2023-10-05T08:04:58] CRITICAL AuthService - User user_410 logged in
+[2023-10-05T08:04:59] CRITICAL PaymentGateway - Transaction processed: txn_01e8
+[2023-10-05T08:05:02] INFO Database - Connection timeout
+[2023-10-05T08:05:03] CRITICAL API - GET /api/v1/products 500
+[2023-10-05T08:05:04] INFO API - GET /api/v1/users 200
+[2023-10-05T08:05:08] INFO PaymentGateway - Transaction failed: txn_019f
+[2023-10-05T08:05:12] INFO AuthService - User user_726 logged in
+[2023-10-05T08:05:14] WARN AuthService - User user_833 logged in
+[2023-10-05T08:05:17] INFO PaymentGateway - Transaction processed: txn_0378
+[2023-10-05T08:05:22] INFO API - GET /api/v1/products 500
+[2023-10-05T08:05:25] INFO AuthService - User user_330 logged in
+[2023-10-05T08:05:26] INFO UserService - User user_330 logged in
+[2023-10-05T08:05:28] ERROR AuthService - User user_384 failed login
+[2023-10-05T08:05:29] INFO Database - Deadlock detected
+[2023-10-05T08:05:30] ERROR Database - Connection established
+[2023-10-05T08:05:31] INFO API - POST /api/v1/products 200
+[2023-10-05T08:05:35] ERROR API - POST /api/v1/users 200
+[2023-10-05T08:05:37] ERROR Database - Query executed
+[2023-10-05T08:05:39] WARN API - POST /api/v1/users 200
+[2023-10-05T08:05:42] INFO AuthService - User user_912 logged in
+[2023-10-05T08:05:43] WARN UserService - User user_912 logged in
+[2023-10-05T08:05:46] WARN PaymentGateway - Transaction processed: txn_01c9
+[2023-10-05T08:05:47] WARN UserService - Transaction processed: txn_01c9
+[2023-10-05T08:05:48] INFO UserService - Transaction processed: txn_01c9
+[2023-10-05T08:05:51] WARN API - POST /api/v1/users 200
+[2023-10-05T08:05:54] INFO API - GET /api/v1/users 200
+[2023-10-05T08:05:56] ERROR API - GET /api/v1/products 500
+[2023-10-05T08:05:58] WARN PaymentGateway - Transaction failed: txn_02ca
+[2023-10-05T08:06:00] WARN PaymentGateway - Transaction processed: txn_0250
+[2023-10-05T08:06:01] INFO Database - Connection timeout
+[2023-10-05T08:06:02] INFO UserService - Connection timeout
+[2023-10-05T08:06:03] WARN UserService - Connection timeout
+[2023-10-05T08:06:07] CRITICAL UserService - Connection timeout
+[2023-10-05T08:06:09] INFO API - POST /api/v1/users 200
+[2023-10-05T08:06:13] INFO API - POST /api/v1/users 200
+[2023-10-05T08:06:18] INFO AuthService - User user_753 failed login
+[2023-10-05T08:06:21] CRITICAL API - POST /api/v1/products 200
+[2023-10-05T08:06:22] INFO AuthService - User user_212 logged in
+[2023-10-05T08:06:24] WARN AuthService - User user_644 logged in
+[2023-10-05T08:06:28] CRITICAL UserService - User user_644 logged in
+[2023-10-05T08:06:33] INFO PaymentGateway - Transaction processed: txn_0378
+[2023-10-05T08:06:37] CRITICAL Database - Query executed
+[2023-10-05T08:06:38] WARN API - POST /api/v1/products 200
+[2023-10-05T08:06:43] INFO API - GET /api/v1/products 500
+[2023-10-05T08:06:44] INFO UserService - GET /api/v1/products 500
+[2023-10-05T08:06:47] CRITICAL API - POST /api/v1/products 200
+[2023-10-05T08:06:48] INFO UserService - POST /api/v1/products 200
+[2023-10-05T08:06:50] ERROR Database - Connection established
+[2023-10-05T08:06:55] WARN API - POST /api/v1/products 200
+[2023-10-05T08:06:59] INFO AuthService - User user_180 logged in
+[2023-10-05T08:07:01] WARN UserService - User user_180 logged in
+[2023-10-05T08:07:04] INFO Database - Deadlock detected
+[2023-10-05T08:07:09] INFO AuthService - User user_420 logged in
+[2023-10-05T08:07:14] INFO PaymentGateway - Transaction processed: txn_0207
+[2023-10-05T08:07:17] CRITICAL API - GET /api/v1/users 500
+[2023-10-05T08:07:20] ERROR AuthService - User user_614 logged in
+[2023-10-05T08:07:25] CRITICAL UserService - User user_614 logged in
+[2023-10-05T08:07:29] INFO API - POST /api/v1/products 200
+[2023-10-05T08:07:31] INFO Database - Query executed
+[2023-10-05T08:07:33] WARN UserService - Query executed
+[2023-10-05T08:07:36] INFO UserService - Query executed
+[2023-10-05T08:07:40] ERROR Database - Connection timeout
+[2023-10-05T08:07:43] INFO API - GET /api/v1/users 404
+[2023-10-05T08:07:44] ERROR API - POST /api/v1/users 200
+[2023-10-05T08:07:48] WARN UserService - POST /api/v1/users 200
+[2023-10-05T08:07:52] INFO PaymentGateway - Transaction processed: txn_0050
+[2023-10-05T08:07:55] INFO AuthService - User user_692 logged in
+[2023-10-05T08:07:58] INFO Database - Query executed
+[2023-10-05T08:08:02] INFO Database - Connection timeout
+[2023-10-05T08:08:04] INFO AuthService - User user_759 logged in
+[2023-10-05T08:08:09] INFO AuthService - User user_955 logged in
+[2023-10-05T08:08:12] INFO AuthService - User user_840 logged in
+[2023-10-05T08:08:16] ERROR Database - Connection established
+[2023-10-05T08:08:18] WARN AuthService - User user_727 logged in
+[2023-10-05T08:08:22] CRITICAL UserService - User user_727 logged in
+[2023-10-05T08:08:24] INFO API - GET /api/v1/users 200
+[2023-10-05T08:08:29] ERROR PaymentGateway - Transaction failed: txn_013c
+[2023-10-05T08:08:30] INFO PaymentGateway - Transaction failed: txn_0100
+[2023-10-05T08:08:33] INFO UserService - Transaction failed: txn_0100
+[2023-10-05T08:08:36] ERROR UserService - Transaction failed: txn_0100
+[2023-10-05T08:08:40] INFO Database - Query executed
+[2023-10-05T08:08:42] WARN Database - Connection timeout
+[2023-10-05T08:08:44] WARN AuthService - User user_234 logged in
+[2023-10-05T08:08:46] ERROR UserService - User user_234 logged in
+[2023-10-05T08:08:48] INFO API - GET /api/v1/products 404
+[2023-10-05T08:08:50] INFO Database - Connection established
+[2023-10-05T08:08:52] WARN UserService - Connection established
+[2023-10-05T08:08:53] INFO PaymentGateway - Transaction processed: txn_014b
+[2023-10-05T08:08:55] INFO Database - Deadlock detected
+[2023-10-05T08:08:57] INFO AuthService - User user_253 logged in
+[2023-10-05T08:09:00] INFO UserService - User user_253 logged in
+[2023-10-05T08:09:02] INFO Database - Connection established
+[2023-10-05T08:09:06] ERROR AuthService - User user_271 logged in
+[2023-10-05T08:09:07] WARN Database - Connection established
+[2023-10-05T08:09:12] WARN PaymentGateway - Transaction failed: txn_034a
+[2023-10-05T08:09:14] ERROR AuthService - User user_776 logged in
+[2023-10-05T08:09:15] INFO PaymentGateway - Transaction processed: txn_0108
+[2023-10-05T08:09:20] INFO PaymentGateway - Transaction processed: txn_015e
+[2023-10-05T08:09:23] INFO Database - Connection established
+[2023-10-05T08:09:27] INFO UserService - Connection established
+[2023-10-05T08:09:32] INFO AuthService - User user_100 failed login
+[2023-10-05T08:09:37] INFO PaymentGateway - Transaction processed: txn_0218
+[2023-10-05T08:09:42] ERROR API - POST /api/v1/users 200
+[2023-10-05T08:09:43] INFO UserService - POST /api/v1/users 200
+[2023-10-05T08:09:45] INFO UserService - POST /api/v1/users 200
+[2023-10-05T08:09:47] INFO API - GET /api/v1/users 200
+[2023-10-05T08:09:48] INFO PaymentGateway - Transaction failed: txn_02ef
+[2023-10-05T08:09:49] WARN PaymentGateway - Transaction processed: txn_0181
+[2023-10-05T08:09:52] INFO PaymentGateway - Transaction failed: txn_02fe
+[2023-10-05T08:09:56] WARN Database - Connection timeout
+[2023-10-05T08:09:59] INFO UserService - Connection timeout
+[2023-10-05T08:10:00] INFO UserService - Connection timeout
+[2023-10-05T08:10:03] INFO API - POST /api/v1/products 404
+[2023-10-05T08:10:06] INFO API - POST /api/v1/products 200
+[2023-10-05T08:10:11] INFO PaymentGateway - Transaction processed: txn_0369
+[2023-10-05T08:10:12] INFO PaymentGateway - Transaction processed: txn_0133
+[2023-10-05T08:10:14] INFO API - POST /api/v1/users 200
+[2023-10-05T08:10:15] INFO Database - Connection established
+[2023-10-05T08:10:16] ERROR Database - Query executed
+[2023-10-05T08:10:17] INFO AuthService - User user_855 logged in
+[2023-10-05T08:10:18] INFO AuthService - User user_748 logged in
+[2023-10-05T08:10:21] INFO Database - Connection established
+[2023-10-05T08:10:25] INFO UserService - Connection established
+[2023-10-05T08:10:27] WARN API - GET /api/v1/products 200
+[2023-10-05T08:10:29] INFO AuthService - User user_787 logged in
+[2023-10-05T08:10:30] INFO Database - Connection established
+[2023-10-05T08:10:31] INFO UserService - Connection established
+[2023-10-05T08:10:32] WARN UserService - Connection established
+[2023-10-05T08:10:37] INFO API - GET /api/v1/products 200
+[2023-10-05T08:10:39] INFO Database - Connection timeout
+[2023-10-05T08:10:40] ERROR API - GET /api/v1/users 200
+[2023-10-05T08:10:45] WARN PaymentGateway - Transaction failed: txn_00b5
+[2023-10-05T08:10:47] ERROR Database - Connection established
+[2023-10-05T08:10:51] INFO AuthService - User user_359 logged in
+[2023-10-05T08:10:52] INFO UserService - User user_359 logged in
+[2023-10-05T08:10:54] ERROR AuthService - User user_816 logged in
+[2023-10-05T08:10:55] INFO PaymentGateway - Transaction failed: txn_0121
+[2023-10-05T08:10:56] ERROR UserService - Transaction failed: txn_0121
+[2023-10-05T08:10:58] ERROR PaymentGateway - Transaction processed: txn_038c
+[2023-10-05T08:11:02] INFO AuthService - User user_825 logged in
+[2023-10-05T08:11:07] INFO API - POST /api/v1/users 200
+[2023-10-05T08:11:09] ERROR UserService - POST /api/v1/users 200
+[2023-10-05T08:11:13] ERROR Database - Query executed
+[2023-10-05T08:11:18] INFO API - POST /api/v1/users 404
+[2023-10-05T08:11:21] INFO AuthService - User user_137 failed login
+[2023-10-05T08:11:24] ERROR UserService - User user_137 failed login
+[2023-10-05T08:11:28] INFO PaymentGateway - Transaction processed: txn_01bf
+[2023-10-05T08:11:29] ERROR API - GET /api/v1/products 404
+[2023-10-05T08:11:34] WARN Database - Connection timeout
+[2023-10-05T08:11:38] INFO AuthService - User user_651 logged in
+[2023-10-05T08:11:41] ERROR Database - Connection established
+[2023-10-05T08:11:44] WARN AuthService - User user_499 logged in
+[2023-10-05T08:11:49] INFO PaymentGateway - Transaction failed: txn_036c
+[2023-10-05T08:11:53] CRITICAL AuthService - User user_104 logged in
+[2023-10-05T08:11:57] INFO AuthService - User user_888 logged in
+[2023-10-05T08:12:01] ERROR PaymentGateway - Transaction processed: txn_0146
+[2023-10-05T08:12:03] INFO API - POST /api/v1/users 200
+[2023-10-05T08:12:05] INFO AuthService - User user_909 logged in
+[2023-10-05T08:12:08] INFO AuthService - User user_281 logged in
+[2023-10-05T08:12:12] INFO AuthService - User user_483 logged in
+[2023-10-05T08:12:17] INFO PaymentGateway - Transaction failed: txn_0362
+[2023-10-05T08:12:22] INFO PaymentGateway - Transaction processed: txn_023c
+[2023-10-05T08:12:25] ERROR AuthService - User user_205 logged in
+[2023-10-05T08:12:26] INFO API - GET /api/v1/users 404
+[2023-10-05T08:12:27] INFO AuthService - User user_700 logged in
+[2023-10-05T08:12:32] INFO PaymentGateway - Transaction processed: txn_0245
+[2023-10-05T08:12:35] INFO API - GET /api/v1/products 404
+[2023-10-05T08:12:40] INFO UserService - GET /api/v1/products 404
+[2023-10-05T08:12:44] INFO PaymentGateway - Transaction failed: txn_0175
+[2023-10-05T08:12:48] INFO AuthService - User user_309 logged in
+[2023-10-05T08:12:50] ERROR PaymentGateway - Transaction processed: txn_00d6
+[2023-10-05T08:12:51] INFO UserService - Transaction processed: txn_00d6
+[2023-10-05T08:12:54] WARN UserService - Transaction processed: txn_00d6
+[2023-10-05T08:12:55] INFO AuthService - User user_730 logged in
+[2023-10-05T08:12:59] ERROR Database - Deadlock detected
+[2023-10-05T08:13:03] ERROR Database - Connection timeout
+[2023-10-05T08:13:05] ERROR PaymentGateway - Transaction processed: txn_03e0
+[2023-10-05T08:13:09] WARN PaymentGateway - Transaction processed: txn_0269
+[2023-10-05T08:13:13] INFO Database - Connection established
+[2023-10-05T08:13:16] INFO UserService - Connection established
+[2023-10-05T08:13:18] INFO API - GET /api/v1/users 200
+[2023-10-05T08:13:19] CRITICAL UserService - GET /api/v1/users 200
+[2023-10-05T08:13:24] INFO Database - Query executed
+[2023-10-05T08:13:25] ERROR PaymentGateway - Transaction failed: txn_021f
+[2023-10-05T08:13:28] CRITICAL AuthService - User user_970 failed login
+[2023-10-05T08:13:31] CRITICAL AuthService - User user_24 logged in
+[2023-10-05T08:13:35] ERROR API - POST /api/v1/products 200
+[2023-10-05T08:13:37] WARN API - GET /api/v1/products 200
+[2023-10-05T08:13:41] INFO AuthService - User user_808 logged in
+[2023-10-05T08:13:45] INFO Database - Query executed
+[2023-10-05T08:13:47] INFO PaymentGateway - Transaction processed: txn_02a3
+[2023-10-05T08:13:49] INFO UserService - Transaction processed: txn_02a3
+[2023-10-05T08:13:52] INFO AuthService - User user_34 logged in
+[2023-10-05T08:13:55] CRITICAL AuthService - User user_782 logged in
+[2023-10-05T08:13:59] ERROR UserService - User user_782 logged in
+[2023-10-05T08:14:02] ERROR Database - Query executed
+[2023-10-05T08:14:04] INFO Database - Query executed
+[2023-10-05T08:14:08] INFO UserService - Query executed
+[2023-10-05T08:14:09] INFO API - GET /api/v1/products 200
+[2023-10-05T08:14:14] INFO API - GET /api/v1/users 200
+[2023-10-05T08:14:19] WARN API - GET /api/v1/users 200
+[2023-10-05T08:14:21] WARN UserService - GET /api/v1/users 200
+[2023-10-05T08:14:23] INFO PaymentGateway - Transaction failed: txn_012b
+[2023-10-05T08:14:24] ERROR Database - Deadlock detected
+[2023-10-05T08:14:25] INFO AuthService - User user_231 failed login
+[2023-10-05T08:14:27] INFO API - GET /api/v1/products 200
+[2023-10-05T08:14:29] INFO API - POST /api/v1/users 200
+[2023-10-05T08:14:32] INFO PaymentGateway - Transaction failed: txn_0228
+[2023-10-05T08:14:36] INFO AuthService - User user_169 logged in
+[2023-10-05T08:14:40] WARN Database - Query executed
+[2023-10-05T08:14:41] INFO AuthService - User user_69 logged in
+[2023-10-05T08:14:45] WARN API - POST /api/v1/products 200
+[2023-10-05T08:14:49] INFO PaymentGateway - Transaction processed: txn_0269
+[2023-10-05T08:14:51] CRITICAL API - POST /api/v1/users 404
+[2023-10-05T08:14:54] INFO UserService - POST /api/v1/users 404
+[2023-10-05T08:14:55] WARN Database - Connection established
+[2023-10-05T08:14:58] WARN AuthService - User user_9 logged in
+[2023-10-05T08:14:59] INFO API - GET /api/v1/products 200
+[2023-10-05T08:15:03] ERROR UserService - GET /api/v1/products 200
+[2023-10-05T08:15:04] INFO Database - Connection timeout
+[2023-10-05T08:15:07] INFO PaymentGateway - Transaction processed: txn_01ae
+[2023-10-05T08:15:12] WARN UserService - Transaction processed: txn_01ae
+[2023-10-05T08:15:15] INFO AuthService - User user_116 logged in
+[2023-10-05T08:15:18] ERROR API - GET /api/v1/users 200
+[2023-10-05T08:15:23] INFO UserService - GET /api/v1/users 200
+[2023-10-05T08:15:27] WARN Database - Connection established
+[2023-10-05T08:15:29] INFO PaymentGateway - Transaction processed: txn_030b
+[2023-10-05T08:15:30] ERROR PaymentGateway - Transaction processed: txn_00b7
+[2023-10-05T08:15:35] INFO API - POST /api/v1/users 200
+[2023-10-05T08:15:38] ERROR PaymentGateway - Transaction failed: txn_0176
+[2023-10-05T08:15:39] ERROR UserService - Transaction failed: txn_0176
+[2023-10-05T08:15:43] WARN UserService - Transaction failed: txn_0176
+[2023-10-05T08:15:46] INFO API - GET /api/v1/users 200
+[2023-10-05T08:15:51] CRITICAL UserService - GET /api/v1/users 200
+[2023-10-05T08:15:53] INFO Database - Connection timeout
+[2023-10-05T08:15:56] WARN API - GET /api/v1/users 200
+[2023-10-05T08:15:58] INFO Database - Query executed
+[2023-10-05T08:16:01] INFO AuthService - User user_637 failed login
+[2023-10-05T08:16:05] INFO AuthService - User user_92 logged in
+[2023-10-05T08:16:10] INFO PaymentGateway - Transaction processed: txn_033b
+[2023-10-05T08:16:15] INFO UserService - Transaction processed: txn_033b
+[2023-10-05T08:16:19] INFO API - POST /api/v1/users 200
+[2023-10-05T08:16:21] INFO API - POST /api/v1/users 200
+[2023-10-05T08:16:24] INFO AuthService - User user_34 logged in
+[2023-10-05T08:16:29] INFO API - GET /api/v1/users 200
+[2023-10-05T08:16:33] WARN AuthService - User user_521 logged in
+[2023-10-05T08:16:36] INFO API - GET /api/v1/products 200
+[2023-10-05T08:16:41] INFO AuthService - User user_284 logged in
+[2023-10-05T08:16:45] INFO PaymentGateway - Transaction processed: txn_0157
+[2023-10-05T08:16:50] INFO AuthService - User user_944 logged in
+[2023-10-05T08:16:52] WARN UserService - User user_944 logged in
+[2023-10-05T08:16:55] CRITICAL AuthService - User user_821 logged in
+[2023-10-05T08:16:57] ERROR UserService - User user_821 logged in
+[2023-10-05T08:17:01] WARN AuthService - User user_29 logged in
+[2023-10-05T08:17:05] ERROR API - POST /api/v1/products 200
+[2023-10-05T08:17:10] INFO UserService - POST /api/v1/products 200
+[2023-10-05T08:17:13] INFO PaymentGateway - Transaction processed: txn_0093
+[2023-10-05T08:17:18] CRITICAL UserService - Transaction processed: txn_0093
+[2023-10-05T08:17:23] WARN API - POST /api/v1/users 200
+[2023-10-05T08:17:25] WARN AuthService - User user_356 logged in
+[2023-10-05T08:17:28] INFO API - GET /api/v1/products 200
+[2023-10-05T08:17:32] INFO UserService - GET /api/v1/products 200
+[2023-10-05T08:17:37] ERROR UserService - GET /api/v1/products 200
+[2023-10-05T08:17:39] INFO UserService - GET /api/v1/products 200
+[2023-10-05T08:17:41] INFO AuthService - User user_552 logged in
+[2023-10-05T08:17:42] WARN PaymentGateway - Transaction processed: txn_00d7
+[2023-10-05T08:17:47] INFO Database - Query executed
+[2023-10-05T08:17:49] INFO Database - Query executed
+[2023-10-05T08:17:53] INFO AuthService - User user_47 logged in
+[2023-10-05T08:17:54] WARN UserService - User user_47 logged in
+[2023-10-05T08:17:55] WARN AuthService - User user_244 logged in
+[2023-10-05T08:17:56] INFO Database - Deadlock detected
+[2023-10-05T08:17:57] INFO AuthService - User user_121 logged in
+[2023-10-05T08:18:02] WARN PaymentGateway - Transaction processed: txn_01b5
+[2023-10-05T08:18:07] INFO API - POST /api/v1/products 404
+[2023-10-05T08:18:08] INFO Database - Connection timeout
+[2023-10-05T08:18:12] INFO PaymentGateway - Transaction failed: txn_0387
+[2023-10-05T08:18:14] INFO UserService - Transaction failed: txn_0387
+[2023-10-05T08:18:18] INFO Database - Connection timeout
+[2023-10-05T08:18:19] WARN API - POST /api/v1/users 200
+[2023-10-05T08:18:20] INFO PaymentGateway - Transaction failed: txn_02a2
+[2023-10-05T08:18:24] INFO PaymentGateway - Transaction processed: txn_037a
+[2023-10-05T08:18:26] INFO AuthService - User user_897 logged in
+[2023-10-05T08:18:29] INFO Database - Connection established
+[2023-10-05T08:18:34] ERROR API - POST /api/v1/products 200
+[2023-10-05T08:18:35] INFO Database - Connection timeout
+[2023-10-05T08:18:36] WARN API - POST /api/v1/products 200
+[2023-10-05T08:18:37] INFO UserService - POST /api/v1/products 200
+[2023-10-05T08:18:41] INFO API - POST /api/v1/users 200
+[2023-10-05T08:18:44] INFO PaymentGateway - Transaction processed: txn_00bb
+[2023-10-05T08:18:49] WARN Database - Deadlock detected
+[2023-10-05T08:18:51] ERROR AuthService - User user_213 logged in
+[2023-10-05T08:18:54] INFO Database - Query executed
+[2023-10-05T08:18:55] INFO AuthService - User user_710 logged in
+[2023-10-05T08:18:56] INFO API - POST /api/v1/users 200
+[2023-10-05T08:18:59] WARN PaymentGateway - Transaction processed: txn_02a5
+[2023-10-05T08:19:03] CRITICAL Database - Query executed
+[2023-10-05T08:19:04] ERROR API - POST /api/v1/users 404
+[2023-10-05T08:19:06] WARN UserService - POST /api/v1/users 404
+[2023-10-05T08:19:11] INFO Database - Deadlock detected
+[2023-10-05T08:19:14] INFO API - GET /api/v1/products 200
+[2023-10-05T08:19:17] INFO AuthService - User user_809 logged in
+[2023-10-05T08:19:18] INFO API - GET /api/v1/users 200
+[2023-10-05T08:19:22] INFO Database - Deadlock detected
+[2023-10-05T08:19:24] ERROR AuthService - User user_487 logged in
+[2023-10-05T08:19:26] CRITICAL UserService - User user_487 logged in
+[2023-10-05T08:19:31] INFO Database - Connection timeout
+[2023-10-05T08:19:34] INFO PaymentGateway - Transaction failed: txn_00dc
+[2023-10-05T08:19:36] WARN Database - Connection timeout
+[2023-10-05T08:19:40] ERROR AuthService - User user_989 logged in
+[2023-10-05T08:19:45] INFO Database - Connection timeout
+[2023-10-05T08:19:49] INFO UserService - Connection timeout
+[2023-10-05T08:19:51] INFO UserService - Connection timeout
+[2023-10-05T08:19:52] ERROR AuthService - User user_343 logged in
+[2023-10-05T08:19:55] WARN PaymentGateway - Transaction failed: txn_03ba
+[2023-10-05T08:20:00] CRITICAL AuthService - User user_996 logged in
+[2023-10-05T08:20:02] INFO AuthService - User user_333 logged in
+[2023-10-05T08:20:04] INFO PaymentGateway - Transaction failed: txn_0236
+[2023-10-05T08:20:09] ERROR Database - Connection established
+[2023-10-05T08:20:10] ERROR AuthService - User user_706 logged in
+[2023-10-05T08:20:15] WARN AuthService - User user_665 logged in
+[2023-10-05T08:20:19] INFO AuthService - User user_95 logged in
+[2023-10-05T08:20:23] INFO UserService - User user_95 logged in
+[2023-10-05T08:20:27] INFO UserService - User user_95 logged in
+[2023-10-05T08:20:31] INFO PaymentGateway - Transaction failed: txn_039e
+[2023-10-05T08:20:36] INFO Database - Deadlock detected
+[2023-10-05T08:20:37] INFO API - GET /api/v1/users 200
+[2023-10-05T08:20:42] INFO AuthService - User user_831 logged in
+[2023-10-05T08:20:47] INFO PaymentGateway - Transaction failed: txn_01e3
+[2023-10-05T08:20:50] ERROR AuthService - User user_696 logged in
+[2023-10-05T08:20:52] INFO API - POST /api/v1/users 404
+[2023-10-05T08:20:54] INFO Database - Connection established
+[2023-10-05T08:20:59] INFO PaymentGateway - Transaction failed: txn_00ea
+[2023-10-05T08:21:00] WARN API - GET /api/v1/users 200
+[2023-10-05T08:21:03] INFO AuthService - User user_411 logged in
+[2023-10-05T08:21:05] INFO UserService - User user_411 logged in
+[2023-10-05T08:21:07] INFO AuthService - User user_505 logged in
+[2023-10-05T08:21:12] WARN PaymentGateway - Transaction processed: txn_01d9
+[2023-10-05T08:21:17] WARN PaymentGateway - Transaction processed: txn_0225
+[2023-10-05T08:21:21] INFO API - POST /api/v1/users 200
+[2023-10-05T08:21:23] INFO AuthService - User user_572 logged in
+[2023-10-05T08:21:25] WARN AuthService - User user_345 logged in
+[2023-10-05T08:21:29] INFO API - GET /api/v1/products 200
+[2023-10-05T08:21:31] INFO API - POST /api/v1/products 200
+[2023-10-05T08:21:32] WARN UserService - POST /api/v1/products 200
+[2023-10-05T08:21:35] INFO PaymentGateway - Transaction failed: txn_0187
+[2023-10-05T08:21:39] INFO AuthService - User user_643 logged in
+[2023-10-05T08:21:40] WARN PaymentGateway - Transaction processed: txn_0242
+[2023-10-05T08:21:43] WARN PaymentGateway - Transaction processed: txn_011e
+[2023-10-05T08:21:47] INFO API - GET /api/v1/users 404
+[2023-10-05T08:21:49] INFO PaymentGateway - Transaction failed: txn_0011
+[2023-10-05T08:21:50] ERROR Database - Connection established
+[2023-10-05T08:21:52] ERROR UserService - Connection established
+[2023-10-05T08:21:56] WARN PaymentGateway - Transaction processed: txn_01e7
+[2023-10-05T08:22:00] ERROR API - GET /api/v1/users 404
+[2023-10-05T08:22:03] INFO AuthService - User user_934 logged in
+[2023-10-05T08:22:04] WARN PaymentGateway - Transaction processed: txn_0387
+[2023-10-05T08:22:05] INFO Database - Deadlock detected
+[2023-10-05T08:22:06] ERROR API - POST /api/v1/products 200
+[2023-10-05T08:22:10] ERROR UserService - POST /api/v1/products 200
+[2023-10-05T08:22:12] INFO API - POST /api/v1/users 200
+[2023-10-05T08:22:14] INFO API - POST /api/v1/products 200
+[2023-10-05T08:22:17] INFO PaymentGateway - Transaction failed: txn_02f6
+[2023-10-05T08:22:19] INFO AuthService - User user_870 logged in
+[2023-10-05T08:22:22] INFO API - POST /api/v1/products 200
+[2023-10-05T08:22:23] ERROR Database - Query executed
+[2023-10-05T08:22:24] INFO UserService - Query executed
+[2023-10-05T08:22:28] INFO PaymentGateway - Transaction failed: txn_016e
+[2023-10-05T08:22:31] INFO UserService - Transaction failed: txn_016e
+[2023-10-05T08:22:32] CRITICAL API - POST /api/v1/users 200
+[2023-10-05T08:22:33] INFO Database - Connection established
+[2023-10-05T08:22:34] ERROR API - POST /api/v1/users 200
+[2023-10-05T08:22:38] INFO UserService - POST /api/v1/users 200
+[2023-10-05T08:22:41] WARN API - GET /api/v1/users 200
+[2023-10-05T08:22:44] INFO API - POST /api/v1/users 200
+[2023-10-05T08:22:47] INFO API - POST /api/v1/users 200
+[2023-10-05T08:22:52] INFO Database - Deadlock detected
+[2023-10-05T08:22:55] INFO AuthService - User user_758 logged in
+[2023-10-05T08:23:00] ERROR API - GET /api/v1/products 200
+[2023-10-05T08:23:05] INFO UserService - GET /api/v1/products 200
+[2023-10-05T08:23:08] WARN API - POST /api/v1/users 200
+[2023-10-05T08:23:12] INFO PaymentGateway - Transaction processed: txn_0014
+[2023-10-05T08:23:16] INFO AuthService - User user_102 logged in
+[2023-10-05T08:23:21] WARN API - GET /api/v1/products 500
+[2023-10-05T08:23:22] ERROR API - GET /api/v1/products 200
+[2023-10-05T08:23:27] WARN API - GET /api/v1/products 200
+[2023-10-05T08:23:32] INFO PaymentGateway - Transaction failed: txn_01af
+[2023-10-05T08:23:37] INFO UserService - Transaction failed: txn_01af
+[2023-10-05T08:23:38] INFO AuthService - User user_108 logged in
+[2023-10-05T08:23:40] INFO PaymentGateway - Transaction failed: txn_01b8
+[2023-10-05T08:23:43] INFO PaymentGateway - Transaction processed: txn_0320
+[2023-10-05T08:23:44] INFO Database - Connection established
+[2023-10-05T08:23:48] INFO PaymentGateway - Transaction processed: txn_03de
+[2023-10-05T08:23:50] WARN PaymentGateway - Transaction failed: txn_0209
+[2023-10-05T08:23:53] INFO API - POST /api/v1/users 200
+[2023-10-05T08:23:54] INFO UserService - POST /api/v1/users 200
+[2023-10-05T08:23:59] WARN API - GET /api/v1/users 200
+[2023-10-05T08:24:02] INFO Database - Connection timeout
+[2023-10-05T08:24:07] INFO API - GET /api/v1/products 200
+[2023-10-05T08:24:12] CRITICAL AuthService - User user_13 logged in
+[2023-10-05T08:24:17] INFO PaymentGateway - Transaction failed: txn_0119
+[2023-10-05T08:24:20] INFO API - POST /api/v1/products 200
+[2023-10-05T08:24:21] INFO API - POST /api/v1/users 200
+[2023-10-05T08:24:26] INFO UserService - POST /api/v1/users 200
+[2023-10-05T08:24:28] WARN AuthService - User user_226 logged in
+[2023-10-05T08:24:30] INFO API - POST /api/v1/users 200
+[2023-10-05T08:24:35] INFO API - POST /api/v1/users 200
+[2023-10-05T08:24:38] INFO AuthService - User user_132 logged in
+[2023-10-05T08:24:43] INFO PaymentGateway - Transaction failed: txn_0031
+[2023-10-05T08:24:44] INFO PaymentGateway - Transaction failed: txn_0150
+[2023-10-05T08:24:45] ERROR UserService - Transaction failed: txn_0150
+[2023-10-05T08:24:47] INFO UserService - Transaction failed: txn_0150
+[2023-10-05T08:24:51] INFO AuthService - User user_229 logged in
+[2023-10-05T08:24:53] INFO PaymentGateway - Transaction processed: txn_0269
+[2023-10-05T08:24:57] INFO Database - Connection timeout
+[2023-10-05T08:25:01] WARN PaymentGateway - Transaction processed: txn_039d
+[2023-10-05T08:25:04] INFO API - GET /api/v1/products 404
+[2023-10-05T08:25:08] INFO API - GET /api/v1/users 404
+[2023-10-05T08:25:11] ERROR Database - Query executed
+[2023-10-05T08:25:13] INFO Database - Deadlock detected
+[2023-10-05T08:25:18] ERROR UserService - Deadlock detected
+[2023-10-05T08:25:21] INFO Database - Connection timeout
+[2023-10-05T08:25:24] WARN AuthService - User user_350 logged in
+[2023-10-05T08:25:27] ERROR Database - Connection timeout
+[2023-10-05T08:25:30] INFO Database - Connection established
+[2023-10-05T08:25:32] INFO AuthService - User user_872 logged in
+[2023-10-05T08:25:36] INFO AuthService - User user_989 logged in
+[2023-10-05T08:25:39] INFO Database - Query executed
+[2023-10-05T08:25:41] ERROR AuthService - User user_588 logged in
+[2023-10-05T08:25:43] INFO UserService - User user_588 logged in
+[2023-10-05T08:25:45] INFO UserService - User user_588 logged in
+[2023-10-05T08:25:47] INFO UserService - User user_588 logged in
+[2023-10-05T08:25:50] INFO Database - Connection established
+[2023-10-05T08:25:55] CRITICAL API - GET /api/v1/products 200
+[2023-10-05T08:25:58] WARN Database - Query executed
+[2023-10-05T08:25:59] INFO UserService - Query executed
+[2023-10-05T08:26:04] WARN API - POST /api/v1/products 200
+[2023-10-05T08:26:09] INFO AuthService - User user_651 logged in
+[2023-10-05T08:26:12] INFO API - GET /api/v1/products 200
+[2023-10-05T08:26:15] INFO AuthService - User user_26 logged in
+[2023-10-05T08:26:19] INFO AuthService - User user_532 logged in
+[2023-10-05T08:26:20] INFO UserService - User user_532 logged in
+[2023-10-05T08:26:22] ERROR PaymentGateway - Transaction failed: txn_0060
+[2023-10-05T08:26:23] INFO PaymentGateway - Transaction failed: txn_0165
+[2023-10-05T08:26:26] INFO API - POST /api/v1/products 200
+[2023-10-05T08:26:31] INFO API - GET /api/v1/products 200
+[2023-10-05T08:26:32] INFO API - POST /api/v1/products 200
+[2023-10-05T08:26:36] INFO UserService - POST /api/v1/products 200
+[2023-10-05T08:26:39] ERROR UserService - POST /api/v1/products 200
+[2023-10-05T08:26:44] INFO API - POST /api/v1/products 200
+[2023-10-05T08:26:48] INFO PaymentGateway - Transaction failed: txn_00ee
+[2023-10-05T08:26:52] INFO AuthService - User user_495 logged in
+[2023-10-05T08:26:56] CRITICAL Database - Deadlock detected
+[2023-10-05T08:27:01] ERROR UserService - Deadlock detected
+[2023-10-05T08:27:04] INFO PaymentGateway - Transaction failed: txn_02e9
+[2023-10-05T08:27:05] INFO Database - Connection established
+[2023-10-05T08:27:09] INFO PaymentGateway - Transaction processed: txn_005c
+[2023-10-05T08:27:11] INFO AuthService - User user_162 logged in
+[2023-10-05T08:27:13] WARN AuthService - User user_384 logged in
+[2023-10-05T08:27:14] WARN Database - Query executed
+[2023-10-05T08:27:15] INFO UserService - Query executed
+[2023-10-05T08:27:18] INFO PaymentGateway - Transaction processed: txn_0010
+[2023-10-05T08:27:22] INFO PaymentGateway - Transaction failed: txn_01a3
+[2023-10-05T08:27:26] WARN Database - Query executed
+[2023-10-05T08:27:29] INFO Database - Connection established
+[2023-10-05T08:27:31] ERROR API - POST /api/v1/users 200
+[2023-10-05T08:27:33] INFO UserService - POST /api/v1/users 200
+[2023-10-05T08:27:38] WARN API - POST /api/v1/users 500
+[2023-10-05T08:27:43] INFO UserService - POST /api/v1/users 500
+[2023-10-05T08:27:44] INFO PaymentGateway - Transaction processed: txn_00d1
+[2023-10-05T08:27:47] INFO PaymentGateway - Transaction processed: txn_023b
+[2023-10-05T08:27:51] ERROR PaymentGateway - Transaction failed: txn_03b2
+[2023-10-05T08:27:55] INFO UserService - Transaction failed: txn_03b2
+[2023-10-05T08:27:57] INFO PaymentGateway - Transaction failed: txn_035b
+[2023-10-05T08:28:02] INFO AuthService - User user_164 logged in
+[2023-10-05T08:28:03] WARN Database - Connection timeout
+[2023-10-05T08:28:07] INFO Database - Connection established
+[2023-10-05T08:28:12] WARN AuthService - User user_614 logged in
+[2023-10-05T08:28:17] INFO PaymentGateway - Transaction failed: txn_0023
+[2023-10-05T08:28:18] INFO UserService - Transaction failed: txn_0023
+[2023-10-05T08:28:22] ERROR UserService - Transaction failed: txn_0023
+[2023-10-05T08:28:27] ERROR Database - Connection established
+[2023-10-05T08:28:32] WARN UserService - Connection established
+[2023-10-05T08:28:36] INFO UserService - Connection established
+[2023-10-05T08:28:38] CRITICAL UserService - Connection established
+[2023-10-05T08:28:39] INFO Database - Deadlock detected
+[2023-10-05T08:28:40] INFO AuthService - User user_516 logged in
+[2023-10-05T08:28:44] INFO API - POST /api/v1/products 200
+[2023-10-05T08:28:46] INFO API - GET /api/v1/products 200
+[2023-10-05T08:28:47] INFO API - GET /api/v1/users 200
+[2023-10-05T08:28:51] ERROR PaymentGateway - Transaction processed: txn_00ec
+[2023-10-05T08:28:55] WARN UserService - Transaction processed: txn_00ec
+[2023-10-05T08:29:00] WARN UserService - Transaction processed: txn_00ec
+[2023-10-05T08:29:01] WARN Database - Deadlock detected
+[2023-10-05T08:29:02] INFO UserService - Deadlock detected
+[2023-10-05T08:29:07] INFO Database - Deadlock detected
+[2023-10-05T08:29:08] INFO PaymentGateway - Transaction failed: txn_02a2
+[2023-10-05T08:29:11] INFO PaymentGateway - Transaction processed: txn_02f4
+[2023-10-05T08:29:13] ERROR API - POST /api/v1/products 200
+[2023-10-05T08:29:14] WARN PaymentGateway - Transaction failed: txn_02a6
+[2023-10-05T08:29:18] CRITICAL API - POST /api/v1/users 500
+[2023-10-05T08:29:21] INFO AuthService - User user_150 logged in
+[2023-10-05T08:29:22] CRITICAL Database - Query executed
+[2023-10-05T08:29:25] WARN Database - Deadlock detected
+[2023-10-05T08:29:27] INFO UserService - Deadlock detected
+[2023-10-05T08:29:29] CRITICAL Database - Connection timeout
+[2023-10-05T08:29:32] WARN UserService - Connection timeout
+[2023-10-05T08:29:34] CRITICAL API - GET /api/v1/products 500
+[2023-10-05T08:29:35] INFO AuthService - User user_614 failed login
+[2023-10-05T08:29:40] INFO AuthService - User user_85 failed login
+[2023-10-05T08:29:45] INFO PaymentGateway - Transaction failed: txn_0206
+[2023-10-05T08:29:49] WARN Database - Connection established
+[2023-10-05T08:29:50] INFO AuthService - User user_60 logged in
+[2023-10-05T08:29:55] INFO UserService - User user_60 logged in
+[2023-10-05T08:29:56] INFO Database - Query executed
+[2023-10-05T08:29:58] INFO Database - Connection timeout
+[2023-10-05T08:30:02] INFO API - POST /api/v1/users 200
+[2023-10-05T08:30:05] INFO PaymentGateway - Transaction failed: txn_0002
+[2023-10-05T08:30:06] WARN PaymentGateway - Transaction processed: txn_0338
+[2023-10-05T08:30:11] INFO PaymentGateway - Transaction processed: txn_0211
+[2023-10-05T08:30:13] WARN AuthService - User user_156 logged in
+[2023-10-05T08:30:15] WARN API - POST /api/v1/users 200
+[2023-10-05T08:30:18] WARN Database - Deadlock detected
+[2023-10-05T08:30:21] CRITICAL AuthService - User user_288 logged in
+[2023-10-05T08:30:25] INFO UserService - User user_288 logged in
+[2023-10-05T08:30:27] WARN Database - Deadlock detected
+[2023-10-05T08:30:29] ERROR API - POST /api/v1/users 200
+[2023-10-05T08:30:32] INFO API - GET /api/v1/users 404
+[2023-10-05T08:30:36] INFO PaymentGateway - Transaction processed: txn_01df
+[2023-10-05T08:30:41] WARN AuthService - User user_991 logged in
+[2023-10-05T08:30:45] INFO Database - Deadlock detected
+[2023-10-05T08:30:46] INFO API - GET /api/v1/products 200
+[2023-10-05T08:30:47] INFO PaymentGateway - Transaction failed: txn_0277
+[2023-10-05T08:30:50] ERROR PaymentGateway - Transaction failed: txn_0214
+[2023-10-05T08:30:51] ERROR AuthService - User user_685 logged in
+[2023-10-05T08:30:52] ERROR UserService - User user_685 logged in
+[2023-10-05T08:30:54] ERROR API - GET /api/v1/products 200
+[2023-10-05T08:30:59] WARN UserService - GET /api/v1/products 200
+[2023-10-05T08:31:03] INFO AuthService - User user_952 logged in
+[2023-10-05T08:31:06] CRITICAL PaymentGateway - Transaction failed: txn_01c1
+[2023-10-05T08:31:09] INFO API - GET /api/v1/products 404
+[2023-10-05T08:31:14] INFO PaymentGateway - Transaction failed: txn_014e
+[2023-10-05T08:31:18] WARN Database - Connection timeout
+[2023-10-05T08:31:21] INFO API - GET /api/v1/users 200
+[2023-10-05T08:31:24] INFO PaymentGateway - Transaction failed: txn_0313
+[2023-10-05T08:31:29] INFO PaymentGateway - Transaction processed: txn_01ad
+[2023-10-05T08:31:33] INFO API - POST /api/v1/products 404
+[2023-10-05T08:31:34] WARN AuthService - User user_649 logged in
+[2023-10-05T08:31:38] INFO AuthService - User user_588 logged in
+[2023-10-05T08:31:43] INFO Database - Deadlock detected
+[2023-10-05T08:31:44] INFO API - POST /api/v1/users 200
+[2023-10-05T08:31:46] INFO AuthService - User user_317 failed login
+[2023-10-05T08:31:51] ERROR UserService - User user_317 failed login
+[2023-10-05T08:31:52] CRITICAL Database - Query executed
+[2023-10-05T08:31:55] INFO AuthService - User user_197 logged in
+[2023-10-05T08:31:57] INFO UserService - User user_197 logged in
+[2023-10-05T08:32:02] INFO PaymentGateway - Transaction processed: txn_00ac
+[2023-10-05T08:32:07] INFO AuthService - User user_641 logged in
+[2023-10-05T08:32:10] WARN UserService - User user_641 logged in
+[2023-10-05T08:32:12] INFO Database - Query executed
+[2023-10-05T08:32:15] INFO PaymentGateway - Transaction failed: txn_02a8
+[2023-10-05T08:32:19] ERROR UserService - Transaction failed: txn_02a8
+[2023-10-05T08:32:21] ERROR UserService - Transaction failed: txn_02a8
+[2023-10-05T08:32:23] INFO UserService - Transaction failed: txn_02a8
+[2023-10-05T08:32:25] ERROR API - GET /api/v1/products 200
+[2023-10-05T08:32:28] INFO PaymentGateway - Transaction failed: txn_0138
+[2023-10-05T08:32:33] WARN Database - Query executed
+[2023-10-05T08:32:37] INFO AuthService - User user_783 logged in
+[2023-10-05T08:32:38] INFO Database - Connection timeout
+[2023-10-05T08:32:43] INFO PaymentGateway - Transaction failed: txn_00b0
+[2023-10-05T08:32:46] INFO AuthService - User user_97 logged in
+[2023-10-05T08:32:50] INFO AuthService - User user_520 logged in
+[2023-10-05T08:32:52] ERROR AuthService - User user_598 logged in
+[2023-10-05T08:32:55] INFO UserService - User user_598 logged in
+[2023-10-05T08:33:00] INFO AuthService - User user_384 logged in
+[2023-10-05T08:33:02] WARN Database - Deadlock detected
+[2023-10-05T08:33:05] INFO API - POST /api/v1/users 200
+[2023-10-05T08:33:09] INFO Database - Query executed
+[2023-10-05T08:33:11] WARN PaymentGateway - Transaction processed: txn_03ce
+[2023-10-05T08:33:13] WARN UserService - Transaction processed: txn_03ce
+[2023-10-05T08:33:14] INFO PaymentGateway - Transaction processed: txn_0069
+[2023-10-05T08:33:16] INFO AuthService - User user_888 logged in
+[2023-10-05T08:33:18] WARN PaymentGateway - Transaction failed: txn_031a
+[2023-10-05T08:33:20] ERROR UserService - Transaction failed: txn_031a
+[2023-10-05T08:33:25] ERROR Database - Deadlock detected
+[2023-10-05T08:33:27] INFO PaymentGateway - Transaction failed: txn_0025
+[2023-10-05T08:33:28] INFO Database - Connection established
+[2023-10-05T08:33:31] ERROR API - POST /api/v1/users 404
+[2023-10-05T08:33:36] CRITICAL Database - Deadlock detected
+[2023-10-05T08:33:40] WARN Database - Connection established
+[2023-10-05T08:33:41] ERROR PaymentGateway - Transaction failed: txn_011a
+[2023-10-05T08:33:42] INFO UserService - Transaction failed: txn_011a
+[2023-10-05T08:33:46] ERROR Database - Query executed
+[2023-10-05T08:33:49] CRITICAL API - POST /api/v1/products 200
+[2023-10-05T08:33:54] INFO Database - Query executed
+[2023-10-05T08:33:59] WARN PaymentGateway - Transaction processed: txn_02a6
+[2023-10-05T08:34:00] INFO UserService - Transaction processed: txn_02a6
+[2023-10-05T08:34:04] ERROR Database - Deadlock detected
+[2023-10-05T08:34:05] INFO Database - Connection established
+[2023-10-05T08:34:07] INFO PaymentGateway - Transaction processed: txn_00eb
+[2023-10-05T08:34:12] ERROR UserService - Transaction processed: txn_00eb
+[2023-10-05T08:34:17] WARN AuthService - User user_545 logged in
+[2023-10-05T08:34:21] INFO UserService - User user_545 logged in
+[2023-10-05T08:34:24] INFO UserService - User user_545 logged in
+[2023-10-05T08:34:25] INFO Database - Deadlock detected
+[2023-10-05T08:34:30] INFO UserService - Deadlock detected
+[2023-10-05T08:34:33] WARN UserService - Deadlock detected
+[2023-10-05T08:34:38] ERROR AuthService - User user_269 logged in
+[2023-10-05T08:34:40] INFO Database - Connection established
+[2023-10-05T08:34:41] WARN PaymentGateway - Transaction failed: txn_010e
+[2023-10-05T08:34:45] INFO UserService - Transaction failed: txn_010e
+[2023-10-05T08:34:48] INFO AuthService - User user_247 logged in
+[2023-10-05T08:34:49] INFO AuthService - User user_211 failed login
+[2023-10-05T08:34:52] ERROR API - POST /api/v1/users 200
+[2023-10-05T08:34:56] INFO AuthService - User user_480 logged in
+[2023-10-05T08:34:57] INFO UserService - User user_480 logged in
+[2023-10-05T08:34:58] WARN API - GET /api/v1/products 500
+[2023-10-05T08:34:59] WARN PaymentGateway - Transaction processed: txn_0040
+[2023-10-05T08:35:00] CRITICAL UserService - Transaction processed: txn_0040
+[2023-10-05T08:35:03] WARN PaymentGateway - Transaction processed: txn_00f2
+[2023-10-05T08:35:06] ERROR Database - Deadlock detected
+[2023-10-05T08:35:09] WARN UserService - Deadlock detected
+[2023-10-05T08:35:11] INFO API - GET /api/v1/users 200
+[2023-10-05T08:35:15] INFO API - GET /api/v1/products 200
+[2023-10-05T08:35:16] ERROR API - POST /api/v1/users 200
+[2023-10-05T08:35:21] WARN API - POST /api/v1/users 200
+[2023-10-05T08:35:24] INFO API - POST /api/v1/users 200
+[2023-10-05T08:35:29] INFO API - POST /api/v1/users 200
+[2023-10-05T08:35:31] INFO Database - Query executed
+[2023-10-05T08:35:32] INFO AuthService - User user_402 logged in
+[2023-10-05T08:35:37] INFO PaymentGateway - Transaction failed: txn_01c0
+[2023-10-05T08:35:41] INFO AuthService - User user_874 logged in
+[2023-10-05T08:35:43] ERROR AuthService - User user_196 logged in
+[2023-10-05T08:35:46] INFO Database - Connection timeout
+[2023-10-05T08:35:48] WARN AuthService - User user_367 failed login
+[2023-10-05T08:35:49] INFO PaymentGateway - Transaction processed: txn_000e
+[2023-10-05T08:35:52] ERROR UserService - Transaction processed: txn_000e
+[2023-10-05T08:35:57] WARN AuthService - User user_926 logged in
+[2023-10-05T08:35:58] INFO PaymentGateway - Transaction processed: txn_0315
+[2023-10-05T08:35:59] ERROR Database - Query executed
+[2023-10-05T08:36:00] INFO UserService - Query executed
+[2023-10-05T08:36:02] WARN UserService - Query executed
+[2023-10-05T08:36:06] INFO API - POST /api/v1/products 200
+[2023-10-05T08:36:11] INFO PaymentGateway - Transaction processed: txn_033b
+[2023-10-05T08:36:16] INFO AuthService - User user_503 logged in
+[2023-10-05T08:36:20] INFO Database - Connection timeout
+[2023-10-05T08:36:23] INFO API - POST /api/v1/products 500
+[2023-10-05T08:36:24] INFO PaymentGateway - Transaction failed: txn_0239
+[2023-10-05T08:36:25] INFO API - GET /api/v1/users 200
+[2023-10-05T08:36:28] INFO PaymentGateway - Transaction processed: txn_019d
+[2023-10-05T08:36:31] INFO API - POST /api/v1/products 200
+[2023-10-05T08:36:33] WARN Database - Deadlock detected
+[2023-10-05T08:36:38] CRITICAL PaymentGateway - Transaction processed: txn_005a
+[2023-10-05T08:36:43] WARN Database - Connection established
+[2023-10-05T08:36:46] CRITICAL PaymentGateway - Transaction failed: txn_0246
+[2023-10-05T08:36:47] INFO Database - Connection timeout
+[2023-10-05T08:36:49] ERROR API - GET /api/v1/products 200
+[2023-10-05T08:36:53] WARN PaymentGateway - Transaction processed: txn_0056
+[2023-10-05T08:36:58] INFO PaymentGateway - Transaction processed: txn_031c
+[2023-10-05T08:37:02] INFO UserService - Transaction processed: txn_031c
+[2023-10-05T08:37:05] INFO API - POST /api/v1/users 200
+[2023-10-05T08:37:07] INFO UserService - POST /api/v1/users 200
+[2023-10-05T08:37:08] ERROR Database - Connection established
+[2023-10-05T08:37:10] INFO UserService - Connection established
+[2023-10-05T08:37:13] WARN API - POST /api/v1/products 404
+[2023-10-05T08:37:14] INFO Database - Query executed
+[2023-10-05T08:37:15] CRITICAL UserService - Query executed
+[2023-10-05T08:37:20] ERROR API - GET /api/v1/users 404
+[2023-10-05T08:37:25] INFO API - GET /api/v1/users 500
+[2023-10-05T08:37:28] WARN PaymentGateway - Transaction processed: txn_0056
+[2023-10-05T08:37:29] INFO UserService - Transaction processed: txn_0056
+[2023-10-05T08:37:33] ERROR UserService - Transaction processed: txn_0056
+[2023-10-05T08:37:35] INFO API - POST /api/v1/users 200
+[2023-10-05T08:37:37] INFO UserService - POST /api/v1/users 200
+[2023-10-05T08:37:41] INFO Database - Query executed
+[2023-10-05T08:37:45] INFO UserService - Query executed
+[2023-10-05T08:37:50] ERROR API - POST /api/v1/users 200
+[2023-10-05T08:37:51] INFO UserService - POST /api/v1/users 200
+[2023-10-05T08:37:56] WARN AuthService - User user_649 logged in
+[2023-10-05T08:37:58] INFO API - GET /api/v1/users 200
+[2023-10-05T08:38:01] WARN Database - Query executed
+[2023-10-05T08:38:05] INFO Database - Deadlock detected
+[2023-10-05T08:38:07] WARN UserService - Deadlock detected
+[2023-10-05T08:38:11] WARN Database - Connection established
+[2023-10-05T08:38:16] INFO API - GET /api/v1/products 200
+[2023-10-05T08:38:20] ERROR UserService - GET /api/v1/products 200
+[2023-10-05T08:38:24] ERROR AuthService - User user_994 logged in
+[2023-10-05T08:38:26] INFO Database - Connection timeout
+[2023-10-05T08:38:29] WARN AuthService - User user_119 logged in
+[2023-10-05T08:38:31] WARN AuthService - User user_57 logged in
+[2023-10-05T08:38:32] INFO AuthService - User user_50 logged in
+[2023-10-05T08:38:33] CRITICAL PaymentGateway - Transaction processed: txn_0392
+[2023-10-05T08:38:37] ERROR PaymentGateway - Transaction processed: txn_0063
+[2023-10-05T08:38:38] INFO PaymentGateway - Transaction processed: txn_0090
+[2023-10-05T08:38:42] WARN AuthService - User user_991 failed login
+[2023-10-05T08:38:44] INFO PaymentGateway - Transaction processed: txn_0125
+[2023-10-05T08:38:48] INFO PaymentGateway - Transaction failed: txn_03bf
+[2023-10-05T08:38:52] INFO PaymentGateway - Transaction failed: txn_01a3
+[2023-10-05T08:38:56] CRITICAL AuthService - User user_611 logged in
+[2023-10-05T08:38:57] INFO Database - Query executed
+[2023-10-05T08:39:02] INFO UserService - Query executed
+[2023-10-05T08:39:06] INFO AuthService - User user_202 logged in
+[2023-10-05T08:39:10] INFO UserService - User user_202 logged in
+[2023-10-05T08:39:15] INFO PaymentGateway - Transaction failed: txn_0323
+[2023-10-05T08:39:19] CRITICAL AuthService - User user_45 logged in
+[2023-10-05T08:39:24] INFO AuthService - User user_307 logged in
+[2023-10-05T08:39:26] INFO UserService - User user_307 logged in
+[2023-10-05T08:39:28] INFO UserService - User user_307 logged in
+[2023-10-05T08:39:31] ERROR API - GET /api/v1/products 200
+[2023-10-05T08:39:36] INFO AuthService - User user_515 logged in
+[2023-10-05T08:39:38] INFO UserService - User user_515 logged in
+[2023-10-05T08:39:40] WARN API - GET /api/v1/products 200
+[2023-10-05T08:39:44] INFO UserService - GET /api/v1/products 200
+[2023-10-05T08:39:49] INFO AuthService - User user_241 logged in
+[2023-10-05T08:39:53] INFO PaymentGateway - Transaction processed: txn_019d
+[2023-10-05T08:39:55] INFO AuthService - User user_689 logged in
+[2023-10-05T08:39:59] INFO PaymentGateway - Transaction processed: txn_0157
+[2023-10-05T08:40:03] CRITICAL API - POST /api/v1/products 200
+[2023-10-05T08:40:07] INFO PaymentGateway - Transaction processed: txn_011d
+[2023-10-05T08:40:10] INFO API - POST /api/v1/users 200
+[2023-10-05T08:40:11] INFO API - POST /api/v1/products 200
+[2023-10-05T08:40:15] INFO UserService - POST /api/v1/products 200
+[2023-10-05T08:40:20] WARN AuthService - User user_397 logged in
+[2023-10-05T08:40:25] INFO PaymentGateway - Transaction failed: txn_033e
+[2023-10-05T08:40:26] INFO AuthService - User user_32 logged in
+[2023-10-05T08:40:28] INFO API - GET /api/v1/users 200
+[2023-10-05T08:40:31] INFO UserService - GET /api/v1/users 200
+[2023-10-05T08:40:36] INFO UserService - GET /api/v1/users 200
+[2023-10-05T08:40:38] CRITICAL API - GET /api/v1/products 200
+[2023-10-05T08:40:39] WARN API - GET /api/v1/products 200
+[2023-10-05T08:40:43] INFO UserService - GET /api/v1/products 200
+[2023-10-05T08:40:44] WARN PaymentGateway - Transaction failed: txn_0152
+[2023-10-05T08:40:49] WARN Database - Connection established
+[2023-10-05T08:40:52] ERROR Database - Connection timeout
+[2023-10-05T08:40:53] INFO PaymentGateway - Transaction failed: txn_00ce
+[2023-10-05T08:40:55] INFO AuthService - User user_888 logged in
+[2023-10-05T08:41:00] INFO Database - Connection established
+[2023-10-05T08:41:03] INFO UserService - Connection established
+[2023-10-05T08:41:08] INFO AuthService - User user_635 logged in
+[2023-10-05T08:41:10] INFO PaymentGateway - Transaction processed: txn_03d7
+[2023-10-05T08:41:12] ERROR AuthService - User user_461 failed login
+[2023-10-05T08:41:13] WARN Database - Connection established
+[2023-10-05T08:41:17] INFO API - GET /api/v1/products 200
+[2023-10-05T08:41:21] INFO UserService - GET /api/v1/products 200
+[2023-10-05T08:41:23] CRITICAL AuthService - User user_206 failed login
+[2023-10-05T08:41:28] ERROR Database - Query executed
+[2023-10-05T08:41:30] ERROR UserService - Query executed
+[2023-10-05T08:41:32] INFO PaymentGateway - Transaction failed: txn_0209
+[2023-10-05T08:41:34] WARN API - POST /api/v1/users 500
+[2023-10-05T08:41:35] ERROR Database - Deadlock detected
+[2023-10-05T08:41:39] CRITICAL AuthService - User user_251 failed login
+[2023-10-05T08:41:42] WARN AuthService - User user_753 failed login
+[2023-10-05T08:41:47] INFO PaymentGateway - Transaction failed: txn_01c3
+[2023-10-05T08:41:50] INFO PaymentGateway - Transaction processed: txn_0222
+[2023-10-05T08:41:52] ERROR AuthService - User user_663 logged in
+[2023-10-05T08:41:54] WARN API - POST /api/v1/products 200
+[2023-10-05T08:41:55] INFO Database - Query executed
+[2023-10-05T08:41:58] ERROR Database - Connection timeout
+[2023-10-05T08:42:02] INFO UserService - Connection timeout
+[2023-10-05T08:42:07] ERROR API - POST /api/v1/products 200
+[2023-10-05T08:42:11] INFO PaymentGateway - Transaction failed: txn_011b
+[2023-10-05T08:42:13] INFO PaymentGateway - Transaction processed: txn_011b
+[2023-10-05T08:42:18] WARN UserService - Transaction processed: txn_011b
+[2023-10-05T08:42:19] WARN PaymentGateway - Transaction failed: txn_0250
+[2023-10-05T08:42:24] WARN UserService - Transaction failed: txn_0250
+[2023-10-05T08:42:27] INFO PaymentGateway - Transaction processed: txn_0317
+[2023-10-05T08:42:32] INFO API - POST /api/v1/products 500
+[2023-10-05T08:42:36] WARN AuthService - User user_791 logged in
+[2023-10-05T08:42:39] ERROR Database - Connection established
+[2023-10-05T08:42:42] INFO API - POST /api/v1/products 500
+[2023-10-05T08:42:44] INFO Database - Connection timeout
+[2023-10-05T08:42:45] WARN Database - Query executed
+[2023-10-05T08:42:49] INFO API - POST /api/v1/users 200
+[2023-10-05T08:42:51] WARN UserService - POST /api/v1/users 200
+[2023-10-05T08:42:55] ERROR AuthService - User user_776 logged in
+[2023-10-05T08:42:57] INFO AuthService - User user_461 logged in
+[2023-10-05T08:42:59] INFO Database - Deadlock detected
+[2023-10-05T08:43:04] ERROR API - GET /api/v1/users 200
+[2023-10-05T08:43:08] CRITICAL API - GET /api/v1/users 200
+[2023-10-05T08:43:10] WARN Database - Query executed
+[2023-10-05T08:43:12] INFO PaymentGateway - Transaction failed: txn_02cc
+[2023-10-05T08:43:16] INFO AuthService - User user_893 logged in
+[2023-10-05T08:43:20] INFO Database - Query executed
+[2023-10-05T08:43:25] CRITICAL AuthService - User user_960 logged in
+[2023-10-05T08:43:28] INFO API - POST /api/v1/products 200
+[2023-10-05T08:43:29] INFO PaymentGateway - Transaction processed: txn_01cb
+[2023-10-05T08:43:34] INFO API - POST /api/v1/users 200
+[2023-10-05T08:43:36] INFO Database - Deadlock detected
+[2023-10-05T08:43:38] WARN Database - Connection timeout
+[2023-10-05T08:43:41] INFO Database - Query executed
+[2023-10-05T08:43:44] INFO UserService - Query executed
+[2023-10-05T08:43:47] INFO API - GET /api/v1/users 200
+[2023-10-05T08:43:49] INFO AuthService - User user_89 logged in
+[2023-10-05T08:43:52] INFO UserService - User user_89 logged in
+[2023-10-05T08:43:54] INFO PaymentGateway - Transaction processed: txn_01c7
+[2023-10-05T08:43:56] ERROR Database - Query executed
+[2023-10-05T08:44:01] WARN PaymentGateway - Transaction processed: txn_02ea
+[2023-10-05T08:44:04] INFO API - POST /api/v1/users 200
+[2023-10-05T08:44:08] INFO Database - Connection established
+[2023-10-05T08:44:12] INFO AuthService - User user_743 logged in
+[2023-10-05T08:44:17] WARN API - POST /api/v1/products 200
+[2023-10-05T08:44:21] INFO Database - Connection established
+[2023-10-05T08:44:26] INFO UserService - Connection established
+[2023-10-05T08:44:27] ERROR API - GET /api/v1/users 200
+[2023-10-05T08:44:30] INFO UserService - GET /api/v1/users 200
+[2023-10-05T08:44:35] INFO AuthService - User user_210 logged in
+[2023-10-05T08:44:40] INFO Database - Query executed
+[2023-10-05T08:44:44] INFO UserService - Query executed
+[2023-10-05T08:44:48] INFO PaymentGateway - Transaction failed: txn_01f3
+[2023-10-05T08:44:50] INFO AuthService - User user_939 logged in
+[2023-10-05T08:44:53] WARN PaymentGateway - Transaction failed: txn_0178
+[2023-10-05T08:44:56] INFO Database - Connection timeout
+[2023-10-05T08:45:00] ERROR PaymentGateway - Transaction processed: txn_0176
+[2023-10-05T08:45:04] WARN PaymentGateway - Transaction processed: txn_026a
+[2023-10-05T08:45:08] WARN API - POST /api/v1/users 200
+[2023-10-05T08:45:09] INFO UserService - POST /api/v1/users 200
+[2023-10-05T08:45:10] WARN PaymentGateway - Transaction processed: txn_02fa
+[2023-10-05T08:45:15] INFO API - POST /api/v1/users 404
+[2023-10-05T08:45:19] INFO Database - Deadlock detected
+[2023-10-05T08:45:22] INFO API - POST /api/v1/products 200
+[2023-10-05T08:45:24] INFO PaymentGateway - Transaction processed: txn_0072
+[2023-10-05T08:45:28] WARN API - GET /api/v1/products 500
+[2023-10-05T08:45:32] INFO AuthService - User user_274 logged in
+[2023-10-05T08:45:35] INFO API - POST /api/v1/users 404
+[2023-10-05T08:45:36] INFO API - GET /api/v1/users 200
+[2023-10-05T08:45:41] INFO AuthService - User user_94 logged in
+[2023-10-05T08:45:43] WARN UserService - User user_94 logged in
+[2023-10-05T08:45:44] INFO UserService - User user_94 logged in
+[2023-10-05T08:45:45] INFO UserService - User user_94 logged in
+[2023-10-05T08:45:47] INFO Database - Connection timeout
+[2023-10-05T08:45:50] INFO UserService - Connection timeout
+[2023-10-05T08:45:51] INFO UserService - Connection timeout
+[2023-10-05T08:45:56] ERROR API - POST /api/v1/products 200
+[2023-10-05T08:45:59] INFO UserService - POST /api/v1/products 200
+[2023-10-05T08:46:01] ERROR API - GET /api/v1/products 404
+[2023-10-05T08:46:02] CRITICAL AuthService - User user_639 logged in
+[2023-10-05T08:46:07] INFO AuthService - User user_320 logged in
+[2023-10-05T08:46:11] WARN Database - Connection established
+[2023-10-05T08:46:12] INFO PaymentGateway - Transaction failed: txn_0076
+[2023-10-05T08:46:15] ERROR Database - Connection timeout
+[2023-10-05T08:46:20] INFO AuthService - User user_402 logged in
+[2023-10-05T08:46:22] WARN PaymentGateway - Transaction failed: txn_036c
+[2023-10-05T08:46:23] INFO Database - Connection established
+[2023-10-05T08:46:25] ERROR AuthService - User user_304 logged in
+[2023-10-05T08:46:28] INFO AuthService - User user_865 logged in
+[2023-10-05T08:46:29] INFO UserService - User user_865 logged in
+[2023-10-05T08:46:34] CRITICAL AuthService - User user_62 logged in
+[2023-10-05T08:46:39] ERROR AuthService - User user_904 logged in
+[2023-10-05T08:46:42] INFO UserService - User user_904 logged in
+[2023-10-05T08:46:46] ERROR AuthService - User user_321 logged in
+[2023-10-05T08:46:48] INFO API - POST /api/v1/products 200
+[2023-10-05T08:46:49] WARN UserService - POST /api/v1/products 200
+[2023-10-05T08:46:54] INFO API - POST /api/v1/products 200
+[2023-10-05T08:46:55] INFO UserService - POST /api/v1/products 200
+[2023-10-05T08:46:58] ERROR API - GET /api/v1/users 500
+[2023-10-05T08:46:59] CRITICAL Database - Deadlock detected
+[2023-10-05T08:47:04] INFO UserService - Deadlock detected
+[2023-10-05T08:47:07] WARN API - GET /api/v1/products 200
+[2023-10-05T08:47:12] WARN UserService - GET /api/v1/products 200
+[2023-10-05T08:47:13] INFO AuthService - User user_849 failed login
+[2023-10-05T08:47:15] INFO UserService - User user_849 failed login
+[2023-10-05T08:47:17] ERROR PaymentGateway - Transaction processed: txn_02e3
+[2023-10-05T08:47:20] WARN Database - Connection established
+[2023-10-05T08:47:23] INFO Database - Connection timeout
+[2023-10-05T08:47:26] INFO PaymentGateway - Transaction processed: txn_0159
+[2023-10-05T08:47:31] WARN PaymentGateway - Transaction processed: txn_0324
+[2023-10-05T08:47:35] INFO AuthService - User user_249 logged in
+[2023-10-05T08:47:38] INFO API - POST /api/v1/users 200
+[2023-10-05T08:47:43] WARN UserService - POST /api/v1/users 200
+[2023-10-05T08:47:45] INFO API - GET /api/v1/products 200
+[2023-10-05T08:47:47] INFO API - GET /api/v1/products 200
+[2023-10-05T08:47:52] CRITICAL UserService - GET /api/v1/products 200
+[2023-10-05T08:47:54] INFO Database - Connection timeout
+[2023-10-05T08:47:59] ERROR Database - Connection timeout
+[2023-10-05T08:48:01] WARN API - GET /api/v1/users 404
+[2023-10-05T08:48:05] WARN UserService - GET /api/v1/users 404
+[2023-10-05T08:48:09] CRITICAL UserService - GET /api/v1/users 404
+[2023-10-05T08:48:12] INFO PaymentGateway - Transaction failed: txn_031e
+[2023-10-05T08:48:17] WARN UserService - Transaction failed: txn_031e
+[2023-10-05T08:48:20] INFO API - GET /api/v1/users 200
+[2023-10-05T08:48:22] CRITICAL AuthService - User user_309 logged in
+[2023-10-05T08:48:25] INFO PaymentGateway - Transaction processed: txn_000f
+[2023-10-05T08:48:29] INFO UserService - Transaction processed: txn_000f
+[2023-10-05T08:48:33] INFO API - POST /api/v1/products 200
+[2023-10-05T08:48:34] INFO AuthService - User user_454 logged in
+[2023-10-05T08:48:35] INFO Database - Query executed
+[2023-10-05T08:48:36] ERROR UserService - Query executed
+[2023-10-05T08:48:38] WARN API - GET /api/v1/users 200
+[2023-10-05T08:48:40] INFO API - GET /api/v1/products 200
+[2023-10-05T08:48:44] INFO Database - Connection timeout
+[2023-10-05T08:48:45] WARN AuthService - User user_348 logged in
+[2023-10-05T08:48:47] INFO Database - Query executed
+[2023-10-05T08:48:48] INFO Database - Query executed
+[2023-10-05T08:48:53] WARN API - POST /api/v1/users 200
+[2023-10-05T08:48:57] WARN Database - Query executed
+[2023-10-05T08:48:58] INFO PaymentGateway - Transaction failed: txn_0124
+[2023-10-05T08:48:59] INFO API - GET /api/v1/users 200
+[2023-10-05T08:49:03] INFO Database - Deadlock detected
+[2023-10-05T08:49:05] INFO PaymentGateway - Transaction failed: txn_0374
+[2023-10-05T08:49:09] ERROR Database - Connection timeout
+[2023-10-05T08:49:14] INFO AuthService - User user_634 logged in
+[2023-10-05T08:49:16] INFO API - GET /api/v1/users 200
+[2023-10-05T08:49:17] ERROR Database - Query executed

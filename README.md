@@ -12,8 +12,8 @@ AIOps leverages Artificial Intelligence (AI) and Machine Learning (ML) to enhanc
 
 - **Proactive Issue Prevention**:
 
-  - Automated Notifications: Alerts the right teams in real-time.
-  - AI-driven Remediation: Uses AI agents to take corrective actions automatically.
+  - **Automated Notifications**: Alerts the right teams in real-time.
+  - **AI-driven Remediation**: Uses AI agents to take corrective actions automatically.
 
 ## The Role of AIOps in Observability
 
@@ -56,3 +56,50 @@ Dynatrace is an advanced monitoring and analytics platform that leverages AI to 
 - **Use ELK Stack** if you need a **log management system** with robust search and visualization capabilities.
 - **Use AIOps** if you want an **intelligent, proactive IT operations platform** that automates issue detection and response.
 - **Combine Both** for enhanced observability: ELK Stack can provide raw logs, while AIOps can analyze them for predictive insights.
+
+---
+
+## Using Isolation Forest for Anomaly Detection in Logs
+
+The Isolation Forest algorithm is an unsupervised machine learning technique used for anomaly detection. It works by isolating anomalies through recursive data partitioning, making it highly effective for detecting outliers in log data.
+
+### How It Works?
+
+1. **Data Preprocessing**: Extract relevant log features (timestamps, response times, error codes, etc.).
+
+2. **Train Isolation Forest Model**: The algorithm isolates anomalies by randomly selecting features and splitting them recursively.
+
+3. **Scoring Anomalies**: Logs with higher anomaly scores are flagged as potential issues.
+
+4. **Triggering Alerts**: If an anomaly is detected, notify relevant teams or trigger automated remediation.
+
+### **Python Implementation Example**
+
+```py
+import pandas as pd
+import numpy as np
+from sklearn.ensemble import IsolationForest
+
+# Sample log data
+log_data = pd.DataFrame({
+    'response_time': [200, 220, 250, 3000, 210, 225, 4000, 215, 240],
+    'error_count': [0, 1, 0, 5, 0, 1, 10, 0, 2]
+})
+
+# Train Isolation Forest model
+iso_forest = IsolationForest(contamination=0.1, random_state=42)
+log_data['anomaly_score'] = iso_forest.fit_predict(log_data)
+
+# Flag anomalies (-1 indicates anomaly, 1 indicates normal)
+anomalies = log_data[log_data['anomaly_score'] == -1]
+print("Anomalies detected:\n", anomalies)
+```
+
+### Benefits of Using Isolation Forest for AIOps
+
+- Fast and efficient anomaly detection for **large-scale log data**.
+- Unsupervised learning approach, no need for labeled datasets.
+- Proactive monitoring by detecting unusual patterns before system failures occur.
+- Seamless integration with AIOps platforms for automated incident response.
+
+By leveraging Isolation Forest, organizations can improve their log monitoring capabilities and take a proactive approach to IT operations.
